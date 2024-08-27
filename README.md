@@ -1,34 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=깃허브특강)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doteed)](https://github.com/Doteed/github-readme-stats)
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
-**두껍게**<br>
-*기울임*<br>
-~~취소선~~
-* 1번
-* 2번
-- 1번
-- 2번
+<details>
+<summary>
+  토글 제목
+</summary>
+   토글 안 내용
+</details>
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 
-[네이버](https://www.naver.com)
-
-```
-print('Hello')
-```
-
-:smirk:
-## :joy:
-# :rage:
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=깃허브특강)
